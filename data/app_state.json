@@ -1,0 +1,56 @@
+{
+    "log_settings": {
+        "information_msg_type_tb": true,
+        "warning_msg_type_tb": true,
+        "error_msg_type_tb": true,
+        "display_computer_username_tb": true,
+        "display_application_name_tb": true,
+        "display_computer_name_tb": true,
+        "display_recording_time_tb": true,
+        "display_recording_date_tb": true,
+        "display_session_id_tb": false,
+        "display_message_log_level_tb": false,
+        "display_message_log_name_tb": true,
+        "display_current_message_tb": true
+    },
+    "appearance_settings": {
+        "dark_theme": true,
+        "light_theme": false,
+        "dark_left_menu_tb": false,
+        "show_address_information_tb": true,
+        "autoresize_map_picture_tb": false
+    },
+    "notification_type_settings": {
+        "push_notification": true,
+        "app_notification": false
+    },
+    "notification_messages_settings": {
+        "ram_slider": 70,
+        "cpu_slider": 50,
+        "battery_slider": 23,
+        "image_save_notification_tb": false,
+        "json_save_notification_tb": false,
+        "secret_achievement_notification_tb": false,
+        "log_file_creating_notification_tb": false,
+        "click_link_notification_tb": false,
+        "low_battery_notification_tb": false,
+        "high_memory_notification_tb": false,
+        "high_cpu_notification_tb": false,
+        "disable_all_notification_tb": true
+    },
+    "system_behaviour_settings": {
+        "to_system_tray_tb": false
+    },
+    "sound_settings": {
+        "play_open_application_sound_tb": false,
+        "play_information_dialog_sound_tb": false,
+        "play_warning_dialog_sound_tb": true,
+        "play_error_dialog_sound_tb": true,
+        "play_secret_achievement_sound_tb": false,
+        "disable_all_sounds_tb": false
+    },
+    "music_settings": {
+        "music_slider": 77,
+        "enable_music_tb": true
+    }
+}

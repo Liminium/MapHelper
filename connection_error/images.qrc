@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/alert.png</file>
+    <file>images/close.png</file>
+    <file>images/hover_close.png</file>
+    <file>images/warning.png</file>
+  </qresource>
+</RCC>
