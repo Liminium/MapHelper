@@ -25,24 +25,24 @@
         "app_notification": false
     },
     "notification_messages_settings": {
-        "ram_slider": 70,
+        "ram_slider": 52,
         "cpu_slider": 50,
-        "battery_slider": 23,
-        "image_save_notification_tb": false,
-        "json_save_notification_tb": false,
+        "battery_slider": 0,
+        "image_save_notification_tb": true,
+        "json_save_notification_tb": true,
         "secret_achievement_notification_tb": false,
         "log_file_creating_notification_tb": false,
         "click_link_notification_tb": false,
         "low_battery_notification_tb": false,
         "high_memory_notification_tb": false,
         "high_cpu_notification_tb": false,
-        "disable_all_notification_tb": true
+        "disable_all_notification_tb": false
     },
     "system_behaviour_settings": {
-        "to_system_tray_tb": false
+        "to_system_tray_tb": true
     },
     "sound_settings": {
-        "play_open_application_sound_tb": false,
+        "play_open_application_sound_tb": true,
         "play_information_dialog_sound_tb": false,
         "play_warning_dialog_sound_tb": true,
         "play_error_dialog_sound_tb": true,
@@ -51,6 +51,6 @@
     },
     "music_settings": {
         "music_slider": 77,
-        "enable_music_tb": true
+        "enable_music_tb": false
     }
 }

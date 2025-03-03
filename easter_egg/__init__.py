@@ -1,0 +1,1 @@
+from .easter_egg import EasterEggDialog
